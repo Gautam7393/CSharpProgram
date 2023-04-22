@@ -1,0 +1,8 @@
+D:\Work\MyLearning\New folder\CSharpProgram\CSharpProgram\bin\Debug\CSharpProgram.exe.config
+D:\Work\MyLearning\New folder\CSharpProgram\CSharpProgram\bin\Debug\CSharpProgram.exe
+D:\Work\MyLearning\New folder\CSharpProgram\CSharpProgram\bin\Debug\CSharpProgram.pdb
+D:\Work\MyLearning\New folder\CSharpProgram\CSharpProgram\obj\Debug\CSharpProgram.csproj.AssemblyReference.cache
+D:\Work\MyLearning\New folder\CSharpProgram\CSharpProgram\obj\Debug\CSharpProgram.csproj.SuggestedBindingRedirects.cache
+D:\Work\MyLearning\New folder\CSharpProgram\CSharpProgram\obj\Debug\CSharpProgram.csproj.CoreCompileInputs.cache
+D:\Work\MyLearning\New folder\CSharpProgram\CSharpProgram\obj\Debug\CSharpProgram.exe
+D:\Work\MyLearning\New folder\CSharpProgram\CSharpProgram\obj\Debug\CSharpProgram.pdb
